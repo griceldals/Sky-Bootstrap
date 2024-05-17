@@ -1,0 +1,42 @@
+.body {
+    overflow: scroll;
+}
+
+    
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+  }
+
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+  }
+
+  video {
+    width: 100%;
+    height: auto;
+  }
+
+  .maps img {
+    max-height: 500px;
+    object-fit: cover;
+  }
+
+  .mt-5 {
+    margin-top: 5rem !important;
+  }
+
+  .pt-5 {
+    padding-top: 5rem !important;
+  }
+
+  .img-thumbnail {
+    width: 100%;
+    height: auto;
+  }
